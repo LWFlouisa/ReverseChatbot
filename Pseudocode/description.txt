@@ -1,3 +1,11 @@
+Each rule is structured as follows:
+
+A = Cat
+B = Dog
+
+Pattern one is: A {a} is not a {b}.
+Pattern two is: A {b} is not a {a}.
+
 List all possible rules based combinations in an grammar format.
 
 Base the loop limit on the size of the rule list.
