@@ -1,0 +1,1 @@
+List all possible rules based combinations in an array.
