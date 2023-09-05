@@ -1,1 +1,7 @@
-List all possible rules based combinations in an array.
+List all possible rules based combinations in an grammar format.
+
+Base the loop limit on the size of the rule list.
+
+Find a match for the desired grammar pattern, and print that to screen.
+
+If the grammar pattern doesnt match, go through grammar list until correct pattern found.
